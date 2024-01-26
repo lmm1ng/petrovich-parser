@@ -1,0 +1,12 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "auto",
+  "indent": ["error", 4],
+  "printWidth": 100,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "arrowParens": "avoid",
+  "semi": false,
+  "useTabs": false
+}
